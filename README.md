@@ -3,7 +3,7 @@
   <a href="https://github.com/abhijithvijayan/google-ima.js/blob/main/license">
     <img src="https://img.shields.io/github/license/abhijithvijayan/google-ima.js.svg" alt="LICENSE" />
   </a>
-  <a href="https://twitter.com/intent/tweet?text=Check%20out%20google-ima.js%21%20by%20%40_abhijithv%0A%0AA%20drop%20in%20replacement%20for%20Google%27s%20Interactive%20Media%20Ads%20library%20for%20preventing%20websites%20crashing%20if%20Adblocker%20is%20enabled.%0Ahttps%3A%2F%2Fgithub.com%2Fabhijithvijayan%2Fgoogle-ima.js%0A%0A%23google%20%23ima%20%23javascriptxtensions">
+  <a href="https://twitter.com/intent/tweet?text=Check%20out%20google-ima.js%21%20by%20%40_abhijithv%0A%0AA%20drop%20in%20replacement%20for%20Google%27s%20Interactive%20Media%20Ads%20library%20for%20preventing%20websites%20crashing%20if%20Adblocker%20is%20enabled.%0Ahttps%3A%2F%2Fgithub.com%2Fabhijithvijayan%2Fgoogle-ima.js%0A%0A%23google%20%23ima%20%23javascript">
      <img src="https://img.shields.io/twitter/url/http/shields.io.svg?style=social" alt="TWEET" />
   </a>
 </div>
